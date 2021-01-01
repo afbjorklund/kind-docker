@@ -1,0 +1,5 @@
+*.tgz
+.kubeconfig
+docker-linux-amd64
+kind-linux-amd64
+kubectl-linux-amd64

@@ -1,0 +1,3 @@
+FROM scratch
+ADD kubectl-linux-amd64 /usr/bin/kubectl
+CMD ["/usr/bin/kubectl"]
